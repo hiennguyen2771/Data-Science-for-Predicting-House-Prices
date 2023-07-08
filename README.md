@@ -7,4 +7,4 @@ There are three main things in my project:
 
 + Build the Machine Learning model to predict the target "SalePrice
 
-+ We predict the price for many houses base on the features
++ We predict the price for many houses base on their features
