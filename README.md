@@ -1,8 +1,8 @@
 # House_Prices
 There are three main things in my project:
 
-.Data Cleaning
++ Data Cleaning
 
-.Data Visualization
++ Data Visualization
 
-.Build the Machine Learning model to predict the target "SalePrice
++ Build the Machine Learning model to predict the target "SalePrice
